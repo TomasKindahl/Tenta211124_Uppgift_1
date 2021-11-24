@@ -11,15 +11,15 @@ namespace Uppgift_1
         }
         public void Set(long index, T value)
         {
-            throw new NotImplementedException("SparseArray constructor not yet implemented!");
+            throw new NotImplementedException("SparseArray.Set not yet implemented!");
         }
         public T Get(long index)
         {
-            throw new NotImplementedException("SparseArray constructor not yet implemented!");
+            throw new NotImplementedException("SparseArray.Get not yet implemented!");
         }
         public long Length()
         {
-            throw new NotImplementedException("SparseArray constructor not yet implemented!");
+            throw new NotImplementedException("SparseArray.Length not yet implemented!");
         }
         public T this[long ix] 
         {
